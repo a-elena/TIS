@@ -1,2 +1,1 @@
-# TIS
-Assignments from the subject Theory of Information and Systems
+## Assignments from the subject Theory of Information and Systems
